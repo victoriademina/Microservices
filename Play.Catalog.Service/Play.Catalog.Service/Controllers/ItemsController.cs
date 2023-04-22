@@ -6,7 +6,7 @@ namespace Play.Catalog.Service.Controllers;
 [Route("items")]
 public class ItemsController : ControllerBase
 {
-    private static readonly List<ItemDto> Items = new() 
+    public static readonly List<ItemDto> Items = new() 
     {
         new ItemDto(Guid.NewGuid(), "Potion", "Restores a small amount of HP", 5, DateTimeOffset.UtcNow),
         new ItemDto(Guid.NewGuid(), "Antidote", "Cures potion", 7, DateTimeOffset.UtcNow),
