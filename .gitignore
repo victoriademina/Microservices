@@ -1,0 +1,73 @@
+# .NET
+bin/
+obj/
+TestResults/
+.coverage/
+.nuget/
+*.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Oo]utput/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.vs/
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Rider files
+.idea/
+*.csproj.DotSettings.user
+
+# NuGet Packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# MSTest Test Results
+TestResults/
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Xamarin
+*.pdb
+*.userprefs
+*.apk
+*.ap_
+*.aab
+*.ipa
+*.msi
+*.msp
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+
