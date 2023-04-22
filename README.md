@@ -8,6 +8,7 @@ As always, it's work in progress.
 To run the projects in this repository, you will need the following tools:
 
 - .NET 7 SDK
+- NUnit
 - Docker (optional)
 
 ## License 
