@@ -1,4 +1,6 @@
 # .NET
+/Play.Catalog.Service/Play.Catalog.Service.Tests/obj/*
+/Play.Catalog.Service/Play.Catalog.Service.Tests/bin/*
 bin/
 obj/
 TestResults/
